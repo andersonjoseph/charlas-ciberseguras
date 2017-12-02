@@ -59,6 +59,6 @@ $i=0
 $list[$i-1] += "`n" + "| [" + $title + "](" + $youtube_url + ") | " + $author + " | " + $date + " | "
 $list | set-content README.md
 add-content urls.txt $youtube_url -Encoding UTF8
-$i=$i-6
+$i=$i-10
 
 write-host "'$title' agregado a la posicion $i de la tabla :)" -foreground green
