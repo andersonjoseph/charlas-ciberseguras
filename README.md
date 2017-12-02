@@ -1,8 +1,9 @@
 # charlas-ciberseguras
+lista de las mejores charlas de seguridad inform√°tica üíªüîê [¬°CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md)
 
+---
 
-
-| TÌtulo | Uploader | Fecha |
+| T√≠tulo | Uploader | Fecha |
 |---|---|---|
-| [CÛmo empezar en Seguridad inform·tica](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
-| [Conferencia: La curiosidad matÛ alÖHacker! (Ruth Sala y JosÈ Aurelio GarcÌa) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
+| [C√≥mo empezar en Seguridad inform√°tica](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
+| [Conferencia: La curiosidad mat√≥ al‚Ä¶Hacker! (Ruth Sala y Jos√© Aurelio Garc√≠a) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
