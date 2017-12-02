@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 # urls start #
 https://www.youtube.com/watch?v=t4UgRVPvcOc
 https://www.youtube.com/watch?v=h6xDWLgj3KA
-=======
-# urls start #
-https://www.youtube.com/watch?v=t4UgRVPvcOc
-https://www.youtube.com/watch?v=h6xDWLgj3KA
->>>>>>> 39c928a613fb0f9cc1d0529960a116d9bbdd0652
