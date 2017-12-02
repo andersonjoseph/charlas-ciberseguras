@@ -2,7 +2,6 @@
 lista de las mejores charlas de seguridad informática 💻🔐
 
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md)
-
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
 ---
