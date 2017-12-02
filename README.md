@@ -1,12 +1,13 @@
 # charlas-ciberseguras
-lista de las mejores charlas de seguridad inform√°tica üíªüîê
+lista de las mejores charlas de seguridad inform·tica ????
 
-[¬°CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
+[°CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
 ---
 
-| T√≠tulo | Uploader | Fecha |
+| TÌtulo | Uploader | Fecha |
 |---|---|---|
-| [C√≥mo empezar en Seguridad inform√°tica](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
-| [Conferencia: La curiosidad mat√≥ al‚Ä¶Hacker! (Ruth Sala y Jos√© Aurelio Garc√≠a) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
+| [CÛmo empezar en Seguridad inform·tica](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
+| [Conferencia: La curiosidad matÛ alÖHacker! (Ruth Sala y JosÈ Aurelio GarcÌa) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
+| [IngenierÌa social: el arte de atacar al eslabÛn m·s dÈbil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
