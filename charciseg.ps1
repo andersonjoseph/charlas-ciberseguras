@@ -2,9 +2,7 @@
 
 $youtube_url = $args[0]
 
-
 if($args[0] -eq $null ){
-	
 	write-host "Youtube Link: " -foreground green
 	$youtube_url = read-host
 }
@@ -66,4 +64,4 @@ $list | set-content README.md -Encoding String
 add-content urls.txt $youtube_url -Encoding String
 $i=$i-10
 
-write-host "'$title' agregado a la posicion $i de la tabla :)" -foreground green
+write-host "'$title' `n de: $author `n fecha: $date `n `n agregado a la posicion $i de la tabla :)" -foreground green
