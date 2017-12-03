@@ -57,7 +57,7 @@ $i=0
     }
 
 $list[$i-1] += "`n" + "| [" + $title + "](" + $youtube_url + ") | " + $author + " | " + $date + " | "
-$list | set-content README.md
+$list | set-content README.md -Encoding UTF8
 add-content urls.txt $youtube_url -Encoding UTF8
 $i=$i-10
 
