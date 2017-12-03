@@ -37,7 +37,7 @@ $list = get-content README.md -Encoding UTF8
 
 $i=0
    
-   if($yt_handler.content -match '<title>(\d|\w|\W[^-])+'){}#silent
+   if($yt_handler.content -match '<title>(\d|\w|[^-])+'){}#silent
    $title = $matches[0].substring(7)
    
    if($yt_handler.content -match '"name": "[\w ]+'){}#silent
