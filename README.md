@@ -14,6 +14,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Elías Grande, Alejandro Ramos - Odin: Footprinting en la era del BigData [RootedCON 2016 - ESP] ](https://www.youtube.com/watch?v=pXI1mIM7C54&index=19&list=PLUOjNfYgonUtXvlGtHxT8KqfA-d34R_os) | Rooted CON | 2016-12-15 | 
 | [Conferencia: La curiosidad mató al Hacker! (Ruth Sala y José Aurelio García) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
 | [Desempaquetando malware y no morir en el intento. ](https://www.youtube.com/watch?v=iWz_qCJ05N4) | DragonJAR tv | 2016-09-27 | 
+| [Are you kidding me? Bypassing Android Security Solutions with a few clicks](https://www.youtube.com/watch?v=RYubYzFSMhs) | DragonJAR tv | 2016-09-23 | 
 | [Ingeniería social: el arte de atacar al eslabón más débil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
 | [Charla: Matamos a gente basándonos en los metadatos](https://www.youtube.com/watch?v=LD_-x51Dltw) | OpenWebinars | 2016-06-28 | 
 | [Exposición Jon Ander Conferencia Internet de las Cosas y Big Data ¿Hacia dónde va la Industria?](https://www.youtube.com/watch?v=4TIqatHPbVE) | Canal INACAP | 2015-12-18 | 
