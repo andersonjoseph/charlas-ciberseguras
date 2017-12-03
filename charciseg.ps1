@@ -42,7 +42,7 @@ $list = get-content README.md -Encoding String
 
 $i=0
    
-   if($yt_handler.content -match '<title>(\d|\w|[^-])+'){}#silent
+   if($yt_handler.content -match '<title>(\d|\w).+(?=YouTube</title>)'){}#silent
    $title = $matches[0].substring(7)
    
    if($yt_handler.content -match '"name": "[\w ]+'){}#silent
