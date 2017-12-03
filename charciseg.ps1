@@ -2,8 +2,15 @@
 
 $youtube_url = $args[0]
 
-if($args[0] -eq $null -or $args[0] -notmatch 'https://www.youtube.com/watch...\w+' ){
-	write-error -Message "ERROR argumento faltante o invalido `n Uso: 'charciseg.ps1 https://www.youtube.com/watch....'" -Category InvalidArgument
+
+if($args[0] -eq $null ){
+	
+	write-host "Youtube Link: " -foreground green
+	$youtube_url = read-host
+}
+
+if($youtube_url -notmatch 'https://www.youtube.com/watch...\w+' ){
+	write-error -Message "Error URL invalida" -Category InvalidArgument
 	exit
 }
 
