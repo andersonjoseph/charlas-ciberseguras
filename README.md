@@ -16,3 +16,4 @@ lista de las mejores charlas/conferencias de seguridad informática
 | [Desempaquetando malware y no morir en el intento. ](https://www.youtube.com/watch?v=iWz_qCJ05N4) | DragonJAR tv | 2016-09-27 | 
 | [Ingeniería social: el arte de atacar al eslabón más débil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
 | [¿Por qué me vigilan, si no soy nadie? Marta Peirano TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk) | TEDx Talks | 2015-09-22 | 
+| [CPCO6 - Tips y Experiencias de un consultor de seguridad informatica](https://www.youtube.com/watch?v=WFwsho6Ae5Y) | Campus Party | 2013-10-11 | 
