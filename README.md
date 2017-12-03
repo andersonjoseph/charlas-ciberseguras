@@ -17,5 +17,6 @@ lista de las mejores charlas/conferencias de seguridad informática
 | [Ingeniería social: el arte de atacar al eslabón más débil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
 | [Exposición Jon Ander Conferencia Internet de las Cosas y Big Data ¿Hacia dónde va la Industria?](https://www.youtube.com/watch?v=4TIqatHPbVE) | Canal INACAP | 2015-12-18 | 
 | [¿Por qué me vigilan, si no soy nadie? Marta Peirano TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk) | TEDx Talks | 2015-09-22 | 
+| [Presentación de HoneySEC y Charla de Manuel Sanchez sobre anonimato en la Red y Redes TOR](https://www.youtube.com/watch?v=pyJhul-c8_Y) | Asociación Honey SEC | 2015-05-15 | 
 | [CONFERENCIA: INFORMÁTICA FORENSE](https://www.youtube.com/watch?v=kPqppv216TU) | Cietsi Perú | 2014-12-27 | 
 | [CPCO6 - Tips y Experiencias de un consultor de seguridad informatica](https://www.youtube.com/watch?v=WFwsho6Ae5Y) | Campus Party | 2013-10-11 | 
