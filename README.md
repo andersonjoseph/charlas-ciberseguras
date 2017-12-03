@@ -1,9 +1,5 @@
 # charlas-ciberseguras
-<<<<<<< HEAD
 lista de las mejores charlas/conferencias de seguridad informática
-=======
-lista de las mejores charlas/conferencias de seguridad informática 
->>>>>>> 50f155005a93be4ca93ccdfa5ae92092b931f225
 
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
