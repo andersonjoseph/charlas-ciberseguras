@@ -12,8 +12,6 @@ if((test-path "README.md") -eq $false -or (test-path "urls.txt") -eq $false){
 	exit
 }
 
-$OutputEncoding = New-Object -typename System.Text.UTF8Encoding
-
 $url_list = get-content urls.txt
 $repeated=$false
    foreach ($url in $url_list){
@@ -33,7 +31,7 @@ $repeated=$false
 write-host "Extrayendo info" -foreground green
 $yt_handler = invoke-webrequest $youtube_url
 
-$list = get-content README.md -Encoding UTF8
+$list = get-content README.md -Encoding String
 
 $i=0
    
@@ -57,8 +55,8 @@ $i=0
     }
 
 $list[$i-1] += "`n" + "| [" + $title + "](" + $youtube_url + ") | " + $author + " | " + $date + " | "
-$list | set-content README.md -Encoding UTF8
-add-content urls.txt $youtube_url -Encoding UTF8
+$list | set-content README.md -Encoding String
+add-content urls.txt $youtube_url -Encoding String
 $i=$i-10
 
 write-host "'$title' agregado a la posicion $i de la tabla :)" -foreground green
