@@ -20,6 +20,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Ingeniería social: el arte de atacar al eslabón más débil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
 | [Charla: Matamos a gente basándonos en los metadatos](https://www.youtube.com/watch?v=LD_-x51Dltw) | OpenWebinars | 2016-06-28 | 
 | [CHARLA INGENIERIA INVERSA EDUARDO CRUZ ARCADE CON 2016](https://www.youtube.com/watch?v=ef4kpydvHbg) | ARCADE VINTAGE | 2016-05-04 | 
+| [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
 | [Exposición Jon Ander Conferencia Internet de las Cosas y Big Data ¿Hacia dónde va la Industria?](https://www.youtube.com/watch?v=4TIqatHPbVE) | Canal INACAP | 2015-12-18 | 
 | [¿Por qué me vigilan, si no soy nadie? Marta Peirano TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk) | TEDx Talks | 2015-09-22 | 
 | [Presentación de HoneySEC y Charla de Manuel Sanchez sobre anonimato en la Red y Redes TOR](https://www.youtube.com/watch?v=pyJhul-c8_Y) | Asociación Honey SEC | 2015-05-15 | 
