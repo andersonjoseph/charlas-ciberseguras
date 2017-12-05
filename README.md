@@ -13,6 +13,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [ElevenPaths Talks 3: A la Pesca de las Victimas](https://www.youtube.com/watch?v=HW2vIa6DsUM) | Maligno Alonso | 2017-08-13 | 
 | [#11PathsTalks: La Guerra contra el Ransomware](https://www.youtube.com/watch?v=FSLzZbkVaq0) | ElevenPaths | 2017-02-27 | 
 | [Cómo hacer una forense informática y no morir en el intento](https://www.youtube.com/watch?v=Tu7docRYy_8) | Palabra de hacker | 2017-01-03 | 
+| [eko 12 - 2016 - Rodrigo Cetera y Javier Bassi - #KillTheHashes - El Gran Libro para Colorear Malware](https://www.youtube.com/watch?v=3H0OEr6x5J8) | ekoparty security conference | 2016-12-19 | 
 | [Elías Grande, Alejandro Ramos - Odin: Footprinting en la era del BigData [RootedCON 2016 - ESP] ](https://www.youtube.com/watch?v=pXI1mIM7C54&index=19&list=PLUOjNfYgonUtXvlGtHxT8KqfA-d34R_os) | Rooted CON | 2016-12-15 | 
 | [Conferencia: La curiosidad mató al Hacker! (Ruth Sala y José Aurelio García) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
 | [Conferencia: La seguridad en dispositivos de seguridad (José Luis Verdeguer) CyberCamp 2016](https://www.youtube.com/watch?v=AE_iNZbH25c) | INCIBE | 2016-12-02 | 
@@ -22,8 +23,13 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Charla: Matamos a gente basándonos en los metadatos](https://www.youtube.com/watch?v=LD_-x51Dltw) | OpenWebinars | 2016-06-28 | 
 | [CHARLA INGENIERIA INVERSA EDUARDO CRUZ ARCADE CON 2016](https://www.youtube.com/watch?v=ef4kpydvHbg) | ARCADE VINTAGE | 2016-05-04 | 
 | [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
+| [XII Ciclo UPM TASSI 2016. Conferencia 3: Hardware Hacking aplicado a la Seguridad: Arduino y Routers](https://www.youtube.com/watch?v=ETradti7L4c) | UPM | 2016-03-29 | 
+| [XII Ciclo UPM TASSI 2016. Conferencia 4: Técnicas de Evasión de Antimalware y Canales Encubiertos](https://www.youtube.com/watch?v=1alsFRDul3I) | UPM | 2016-03-29 | 
 | [Exposición Jon Ander Conferencia Internet de las Cosas y Big Data ¿Hacia dónde va la Industria?](https://www.youtube.com/watch?v=4TIqatHPbVE) | Canal INACAP | 2015-12-18 | 
 | [¿Por qué me vigilan, si no soy nadie? Marta Peirano TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk) | TEDx Talks | 2015-09-22 | 
+| [Carmen Torrano - Investigando sobre los cortafuegos de aplicaciones web [Rooted CON 2015 - ESP]](https://www.youtube.com/watch?v=Tkh_Roy9eDw) | Rooted CON | 2015-06-10 | 
 | [Presentación de HoneySEC y Charla de Manuel Sanchez sobre anonimato en la Red y Redes TOR](https://www.youtube.com/watch?v=pyJhul-c8_Y) | Asociación Honey SEC | 2015-05-15 | 
 | [CONFERENCIA: INFORMÁTICA FORENSE](https://www.youtube.com/watch?v=kPqppv216TU) | Cietsi Perú | 2014-12-27 | 
+| [Lorenzo Martínez - Welcome to your secure /home, $user [RootedCON 2012]](https://www.youtube.com/watch?v=KFj1bxiLx9Y) | Securízame | 2014-09-21 | 
+| [Borja Berástegui - Handware hacking: Si hay un \input, hay peligro [Rooted CON 2014]](https://www.youtube.com/watch?v=dz_jjhUfznY) | Rooted CON | 2014-09-13 | 
 | [CPCO6 - Tips y Experiencias de un consultor de seguridad informatica](https://www.youtube.com/watch?v=WFwsho6Ae5Y) | Campus Party | 2013-10-11 | 
