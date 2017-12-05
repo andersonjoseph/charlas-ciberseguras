@@ -42,6 +42,7 @@ $i=0
    
    if($yt_handler.content -match '<title>.+(?= - YouTube</title>)'){}#silent
    $title = $matches[0].substring(7)
+   if($title -match '\|'){$title -replace '\|',""}
    
    if($yt_handler.content -match '"name": "[\w ]+'){}#silent
    $author = $matches[0].substring(9)
