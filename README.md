@@ -12,6 +12,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Cómo empezar en Seguridad informática](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
 | [ElevenPaths Talks 3: A la Pesca de las Victimas](https://www.youtube.com/watch?v=HW2vIa6DsUM) | Maligno Alonso | 2017-08-13 | 
 | [#11PathsTalks: La Guerra contra el Ransomware](https://www.youtube.com/watch?v=FSLzZbkVaq0) | ElevenPaths | 2017-02-27 | 
+| [Cómo hacer una forense informática y no morir en el intento](https://www.youtube.com/watch?v=Tu7docRYy_8) | Palabra de hacker | 2017-01-03 | 
 | [Elías Grande, Alejandro Ramos - Odin: Footprinting en la era del BigData [RootedCON 2016 - ESP] ](https://www.youtube.com/watch?v=pXI1mIM7C54&index=19&list=PLUOjNfYgonUtXvlGtHxT8KqfA-d34R_os) | Rooted CON | 2016-12-15 | 
 | [Conferencia: La curiosidad mató al Hacker! (Ruth Sala y José Aurelio García) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
 | [Conferencia: La seguridad en dispositivos de seguridad (José Luis Verdeguer) CyberCamp 2016](https://www.youtube.com/watch?v=AE_iNZbH25c) | INCIBE | 2016-12-02 | 
