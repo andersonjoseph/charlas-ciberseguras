@@ -8,6 +8,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
 | [Congreso Internacional de Seguridad Informatica 2017 Conferencia: 2021 Odisea del Ciberespacio](https://www.youtube.com/watch?v=Ukmj7VrkcSwhttps://www.youtube.com/watch?v=Ukmj7VrkcSw) | Irving Colunga | 2017-09-01 | 
 | [Cómo empezar en Seguridad informática](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
 | [ElevenPaths Talks 3: A la Pesca de las Victimas](https://www.youtube.com/watch?v=HW2vIa6DsUM) | Maligno Alonso | 2017-08-13 | 
