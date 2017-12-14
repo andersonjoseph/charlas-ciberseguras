@@ -12,6 +12,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Congreso Internacional de Seguridad Informatica 2017 Conferencia: 2021 Odisea del Ciberespacio](https://www.youtube.com/watch?v=Ukmj7VrkcSwhttps://www.youtube.com/watch?v=Ukmj7VrkcSw) | Irving Colunga | 2017-09-01 | 
 | [Cómo empezar en Seguridad informática](https://www.youtube.com/watch?v=t4UgRVPvcOc)  | Maligno Alonso  |  2017-08-21 |
 | [ElevenPaths Talks 3: A la Pesca de las Victimas](https://www.youtube.com/watch?v=HW2vIa6DsUM) | Maligno Alonso | 2017-08-13 | 
+| [Curso/charla de Adastra sobre hacking práctico usando THW Labs](https://www.youtube.com/watch?v=x0p0FaVvyoI) | hackplayers | 2017-05-18 | 
 | [#11PathsTalks: La Guerra contra el Ransomware](https://www.youtube.com/watch?v=FSLzZbkVaq0) | ElevenPaths | 2017-02-27 | 
 | [¿Qué es Shodan? El buscador, al descubierto](https://www.youtube.com/watch?v=wV6hYcD7a2g) | Palabra de hacker | 2017-02-07 | 
 | [Cómo hacer una forense informática y no morir en el intento](https://www.youtube.com/watch?v=Tu7docRYy_8) | Palabra de hacker | 2017-01-03 | 
