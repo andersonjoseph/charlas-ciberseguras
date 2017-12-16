@@ -30,6 +30,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Ingeniería social: el arte de atacar al eslabón más débil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
 | [Charla: Matamos a gente basándonos en los metadatos](https://www.youtube.com/watch?v=LD_-x51Dltw) | OpenWebinars | 2016-06-28 | 
 | [CHARLA INGENIERIA INVERSA EDUARDO CRUZ ARCADE CON 2016](https://www.youtube.com/watch?v=ef4kpydvHbg) | ARCADE VINTAGE | 2016-05-04 | 
+| [How I met your e-Wallet (BitCoins)](https://www.youtube.com/watch?v=qdX3JXrUxPs) | Maligno Alonso | 2016-05-03 | 
 | [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 3: Hardware Hacking aplicado a la Seguridad: Arduino y Routers](https://www.youtube.com/watch?v=ETradti7L4c) | UPM | 2016-03-29 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 4: Técnicas de Evasión de Antimalware y Canales Encubiertos](https://www.youtube.com/watch?v=1alsFRDul3I) | UPM | 2016-03-29 | 
