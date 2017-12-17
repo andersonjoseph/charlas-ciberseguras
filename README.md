@@ -40,6 +40,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 3: Hardware Hacking aplicado a la Seguridad: Arduino y Routers](https://www.youtube.com/watch?v=ETradti7L4c) | UPM | 2016-03-29 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 4: Técnicas de Evasión de Antimalware y Canales Encubiertos](https://www.youtube.com/watch?v=1alsFRDul3I) | UPM | 2016-03-29 | 
+| [Seguridad en redes WiFi. Riesgos y recomendaciones.](https://www.youtube.com/watch?v=Xdgqt3b62mU) | Palabra de hacker | 2016-03-15 | 
 | [Reverseando routers domésticos #HackandBeers](https://www.youtube.com/watch?v=SjzlX_6fpvU) | Palabra de hacker | 2016-03-13 | 
 | [Resilia: Mejores prácticas de Ciber Resiliencia - Simposio de Seguridad Informática](https://www.youtube.com/watch?v=vRBmz0YXPVU) | Global Lynx | 2016-03-09 | 
 | [Cómo hacer herramientas en smartphones #HackandBeers](https://www.youtube.com/watch?v=0_6NqwHlj5U) | Palabra de hacker | 2016-02-05 | 
