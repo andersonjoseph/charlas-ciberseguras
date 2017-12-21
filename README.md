@@ -45,6 +45,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Seguridad en redes WiFi. Riesgos y recomendaciones.](https://www.youtube.com/watch?v=Xdgqt3b62mU) | Palabra de hacker | 2016-03-15 | 
 | [Reverseando routers domésticos #HackandBeers](https://www.youtube.com/watch?v=SjzlX_6fpvU) | Palabra de hacker | 2016-03-13 | 
 | [Resilia: Mejores prácticas de Ciber Resiliencia - Simposio de Seguridad Informática](https://www.youtube.com/watch?v=vRBmz0YXPVU) | Global Lynx | 2016-03-09 | 
+| [Charla-Taller &quot;Ahora me ves&quot; sobre Esteganografía](https://www.youtube.com/watch?v=baOga2R7RgU) | Al Dr0id | 2016-03-07 | 
 | [Cómo hacer herramientas en smartphones #HackandBeers](https://www.youtube.com/watch?v=0_6NqwHlj5U) | Palabra de hacker | 2016-02-05 | 
 | [Seguridad y criptografía en Python - José Manuel Ortega - Track Cienti´fico](https://www.youtube.com/watch?v=UZbRWn-JS1Y) | Python España | 2016-02-02 | 
 | [Exposición Jon Ander Conferencia Internet de las Cosas y Big Data ¿Hacia dónde va la Industria?](https://www.youtube.com/watch?v=4TIqatHPbVE) | Canal INACAP | 2015-12-18 | 
