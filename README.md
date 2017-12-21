@@ -19,6 +19,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [#11PathsTalks: La Guerra contra el Ransomware](https://www.youtube.com/watch?v=FSLzZbkVaq0) | ElevenPaths | 2017-02-27 | 
 | [PaaS: Phishing as a service, phishing avanzado #HackandBeers](https://www.youtube.com/watch?v=lEkq7d-whhM) | Palabra de hacker | 2017-02-19 | 
 | [¿Qué es Shodan? El buscador, al descubierto](https://www.youtube.com/watch?v=wV6hYcD7a2g) | Palabra de hacker | 2017-02-07 | 
+| [Búsqueda de vulnerabilidades en repositorios de código fuente](https://www.youtube.com/watch?v=qpZBUDLJ-04) | Maligno Alonso | 2017-01-17 | 
 | [Cómo hacer una forense informática y no morir en el intento](https://www.youtube.com/watch?v=Tu7docRYy_8) | Palabra de hacker | 2017-01-03 | 
 | [eko 12 - 2016 - Sheila Berta y Claudio Caracciolo - Backdooring CAN Bus for Remote Car Hacking](https://www.youtube.com/watch?v=2YqzbJWV4yY) | ekoparty security conference | 2016-12-23 | 
 | [eko 12 - 2016 - Rodrigo Cetera y Javier Bassi - #KillTheHashes - El Gran Libro para Colorear Malware](https://www.youtube.com/watch?v=3H0OEr6x5J8) | ekoparty security conference | 2016-12-19 | 
@@ -38,6 +39,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [CHARLA INGENIERIA INVERSA EDUARDO CRUZ ARCADE CON 2016](https://www.youtube.com/watch?v=ef4kpydvHbg) | ARCADE VINTAGE | 2016-05-04 | 
 | [How I met your e-Wallet (BitCoins)](https://www.youtube.com/watch?v=qdX3JXrUxPs) | Maligno Alonso | 2016-05-03 | 
 | [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
+| [Carlos Aldama. &quot;La firma electrónica vista por un perito informático&quot;.](https://www.youtube.com/watch?v=sfIIzYAsdT4) | 121 PR | 2016-04-14 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 3: Hardware Hacking aplicado a la Seguridad: Arduino y Routers](https://www.youtube.com/watch?v=ETradti7L4c) | UPM | 2016-03-29 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 4: Técnicas de Evasión de Antimalware y Canales Encubiertos](https://www.youtube.com/watch?v=1alsFRDul3I) | UPM | 2016-03-29 | 
 | [Seguridad en redes WiFi. Riesgos y recomendaciones.](https://www.youtube.com/watch?v=Xdgqt3b62mU) | Palabra de hacker | 2016-03-15 | 
@@ -48,10 +50,14 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Conferencia de Francisco Jesús Rodríguez Montero en CyberCamp 2015](https://www.youtube.com/watch?v=mXieKJF9nfg) | INCIBE | 2015-11-29 | 
 | [Seguridad en dispositivos móviles](https://www.youtube.com/watch?v=hfaAA7ln-kc) | Tucamon Camon | 2015-10-07 | 
 | [¿Por qué me vigilan, si no soy nadie? Marta Peirano TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk) | TEDx Talks | 2015-09-22 | 
+| [Como realizar un Peritaje Informático Forense &amp; Como Asegurar un servidor Web DragonJARTV Episodio 4](https://www.youtube.com/watch?v=chnhjzglg7c) | DragonJAR tv | 2015-09-13 | 
 | [In-seguridad Informática. Pensando como un Hacker.](https://www.youtube.com/watch?v=wl2ZpSgWWqI) | LSLUTNFRA | 2015-06-27 | 
+| [Cibercrimen en Rusia: una visita al lado oscuro de Internet](https://www.youtube.com/watch?v=A0rySsa15nc) | HangoutON | 2015-06-18 | 
 | [Carmen Torrano - Investigando sobre los cortafuegos de aplicaciones web [Rooted CON 2015 - ESP]](https://www.youtube.com/watch?v=Tkh_Roy9eDw) | Rooted CON | 2015-06-10 | 
 | [Hacking IoT - Seguridad en el Internet de las cosas](https://www.youtube.com/watch?v=Y0IlcLBc9bk) | HangoutON | 2015-06-09 | 
 | [Presentación de HoneySEC y Charla de Manuel Sanchez sobre anonimato en la Red y Redes TOR](https://www.youtube.com/watch?v=pyJhul-c8_Y) | Asociación Honey SEC | 2015-05-15 | 
+| [Qurtuba Security Congress (primera parte)](https://www.youtube.com/watch?v=jLaue3iyxVg) | HangoutON | 2015-04-10 | 
+| [Qurtuba Security Congress (segunda parte)](https://www.youtube.com/watch?v=C6ZSY4ubFEA) | HangoutON | 2015-04-10 | 
 | [CONFERENCIA: INFORMÁTICA FORENSE](https://www.youtube.com/watch?v=kPqppv216TU) | Cietsi Perú | 2014-12-27 | 
 | [Lorenzo Martínez - Welcome to your secure /home, $user [RootedCON 2012]](https://www.youtube.com/watch?v=KFj1bxiLx9Y) | Securízame | 2014-09-21 | 
 | [Borja Berástegui - Handware hacking: Si hay un \input, hay peligro [Rooted CON 2014]](https://www.youtube.com/watch?v=dz_jjhUfznY) | Rooted CON | 2014-09-13 | 
