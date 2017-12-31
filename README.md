@@ -9,6 +9,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | Título | Uploader | Fecha |
 |---|---|---|
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
+| [Hack &amp; Beers Granada - Web Pentesting for Begginers - Charla @RoloMijan](https://www.youtube.com/watch?v=t0m9DRj6yrs) | Hacking Desde Cero | 2017-11-14 | 
 | [Infidelidad Tecnológica, creando hackers espontáneos](https://www.youtube.com/watch?v=dVTfLIY-koo) | DragonJAR tv | 2017-10-22 | 
 | [De ingeniero a hacker... ¡y de hacker a maker!](https://www.youtube.com/watch?v=40s16R4GxPQ) | José Enrique Alvarez Estrada | 2017-09-15 | 
 | [Congreso Internacional de Seguridad Informatica 2017 Conferencia: 2021 Odisea del Ciberespacio](https://www.youtube.com/watch?v=Ukmj7VrkcSwhttps://www.youtube.com/watch?v=Ukmj7VrkcSw) | Irving Colunga | 2017-09-01 | 
@@ -16,6 +17,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [ElevenPaths Talks 3: A la Pesca de las Victimas](https://www.youtube.com/watch?v=HW2vIa6DsUM) | Maligno Alonso | 2017-08-13 | 
 | [ElevenPaths Talks 3: Criptografi´a, Criptomoneda y Otras Hierbas](https://www.youtube.com/watch?v=XroAODEepLc) | Maligno Alonso | 2017-05-28 | 
 | [Curso/charla de Adastra sobre hacking práctico usando THW Labs](https://www.youtube.com/watch?v=x0p0FaVvyoI) | hackplayers | 2017-05-18 | 
+| [CONPilar17 - Román Ramírez - ¿Dónde están los hackers de las canciones?](https://www.youtube.com/watch?v=tGd27EdX7wU) | CONPilar | 2017-03-23 | 
 | [#11PathsTalks: La Guerra contra el Ransomware](https://www.youtube.com/watch?v=FSLzZbkVaq0) | ElevenPaths | 2017-02-27 | 
 | [PaaS: Phishing as a service, phishing avanzado #HackandBeers](https://www.youtube.com/watch?v=lEkq7d-whhM) | Palabra de hacker | 2017-02-19 | 
 | [¿Qué es Shodan? El buscador, al descubierto](https://www.youtube.com/watch?v=wV6hYcD7a2g) | Palabra de hacker | 2017-02-07 | 
@@ -40,6 +42,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [How I met your e-Wallet (BitCoins)](https://www.youtube.com/watch?v=qdX3JXrUxPs) | Maligno Alonso | 2016-05-03 | 
 | [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
 | [Carlos Aldama. &quot;La firma electrónica vista por un perito informático&quot;.](https://www.youtube.com/watch?v=sfIIzYAsdT4) | 121 PR | 2016-04-14 | 
+| [OSINT y hacking con buscadores](https://www.youtube.com/watch?v=bcJ_TEQtORE) | Palabra de hacker | 2016-04-05 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 3: Hardware Hacking aplicado a la Seguridad: Arduino y Routers](https://www.youtube.com/watch?v=ETradti7L4c) | UPM | 2016-03-29 | 
 | [XII Ciclo UPM TASSI 2016. Conferencia 4: Técnicas de Evasión de Antimalware y Canales Encubiertos](https://www.youtube.com/watch?v=1alsFRDul3I) | UPM | 2016-03-29 | 
 | [Seguridad en redes WiFi. Riesgos y recomendaciones.](https://www.youtube.com/watch?v=Xdgqt3b62mU) | Palabra de hacker | 2016-03-15 | 
