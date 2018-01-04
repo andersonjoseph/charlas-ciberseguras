@@ -8,6 +8,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
 | [Hack &amp; Beers Granada - Web Pentesting for Begginers - Charla @RoloMijan](https://www.youtube.com/watch?v=t0m9DRj6yrs) | Hacking Desde Cero | 2017-11-14 | 
 | [Infidelidad Tecnológica, creando hackers espontáneos](https://www.youtube.com/watch?v=dVTfLIY-koo) | DragonJAR tv | 2017-10-22 | 
