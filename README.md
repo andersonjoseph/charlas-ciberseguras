@@ -10,6 +10,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 |---|---|---|
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
+| [CyberCamp 2017 - Charlas - Domingo mañana - (Español)](https://www.youtube.com/watch?v=dPxdC7lOrTc) | INCIBE | 2017-12-03 | 
 | [Hack &amp; Beers Granada - Web Pentesting for Begginers - Charla @RoloMijan](https://www.youtube.com/watch?v=t0m9DRj6yrs) | Hacking Desde Cero | 2017-11-14 | 
 | [Infidelidad Tecnológica, creando hackers espontáneos](https://www.youtube.com/watch?v=dVTfLIY-koo) | DragonJAR tv | 2017-10-22 | 
 | [De ingeniero a hacker... ¡y de hacker a maker!](https://www.youtube.com/watch?v=40s16R4GxPQ) | José Enrique Alvarez Estrada | 2017-09-15 | 
@@ -30,6 +31,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Elías Grande, Alejandro Ramos - Odin: Footprinting en la era del BigData [RootedCON 2016 - ESP] ](https://www.youtube.com/watch?v=pXI1mIM7C54&index=19&list=PLUOjNfYgonUtXvlGtHxT8KqfA-d34R_os) | Rooted CON | 2016-12-15 | 
 | [Conferencia: La curiosidad mató al Hacker! (Ruth Sala y José Aurelio García) CyberCamp 2016](https://www.youtube.com/watch?v=h6xDWLgj3KA) | INCIBE | 2016-12-04 | 
 | [Conferencia: Malware de terminales punto de venta (Ricardo J. Rodríguez) CyberCamp 2016](https://www.youtube.com/watch?v=6MGW7s7CXSg) | INCIBE | 2016-12-04 | 
+| [Conferencia: I+D, investigación y desahogo (Rubén Santamarta) CyberCamp 2016](https://www.youtube.com/watch?v=E-_8CKnXSQI) | INCIBE | 2016-12-04 | 
 | [Conferencia: La seguridad en dispositivos de seguridad (José Luis Verdeguer) CyberCamp 2016](https://www.youtube.com/watch?v=AE_iNZbH25c) | INCIBE | 2016-12-02 | 
 | [Amenazas en el Internet de las cosas #Hackandbeers](https://www.youtube.com/watch?v=JxXYfRBdZng) | Palabra de hacker | 2016-11-01 | 
 | [BIO Hacking](https://www.youtube.com/watch?v=RWqPR2jPvsA) | Maligno Alonso | 2016-10-15 | 
@@ -59,6 +61,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Como realizar un Peritaje Informático Forense &amp; Como Asegurar un servidor Web DragonJARTV Episodio 4](https://www.youtube.com/watch?v=chnhjzglg7c) | DragonJAR tv | 2015-09-13 | 
 | [In-seguridad Informática. Pensando como un Hacker.](https://www.youtube.com/watch?v=wl2ZpSgWWqI) | LSLUTNFRA | 2015-06-27 | 
 | [PSbot: Dame PowerShell y moveré el mundo (pentesting)](https://www.youtube.com/watch?v=f3cJsShsGc0) | HangoutON | 2015-06-24 | 
+| [José Selvi - Adaptando exploits para evitar la frustración [RootedSatellite: Valencia 2014]](https://www.youtube.com/watch?v=IehV8MRsT3s) | Rooted CON | 2015-06-21 | 
 | [Cibercrimen en Rusia: una visita al lado oscuro de Internet](https://www.youtube.com/watch?v=A0rySsa15nc) | HangoutON | 2015-06-18 | 
 | [Carmen Torrano - Investigando sobre los cortafuegos de aplicaciones web [Rooted CON 2015 - ESP]](https://www.youtube.com/watch?v=Tkh_Roy9eDw) | Rooted CON | 2015-06-10 | 
 | [Hacking IoT - Seguridad en el Internet de las cosas](https://www.youtube.com/watch?v=Y0IlcLBc9bk) | HangoutON | 2015-06-09 | 
@@ -67,6 +70,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Qurtuba Security Congress (primera parte)](https://www.youtube.com/watch?v=jLaue3iyxVg) | HangoutON | 2015-04-10 | 
 | [Qurtuba Security Congress (segunda parte)](https://www.youtube.com/watch?v=C6ZSY4ubFEA) | HangoutON | 2015-04-10 | 
 | [CONFERENCIA: INFORMÁTICA FORENSE](https://www.youtube.com/watch?v=kPqppv216TU) | Cietsi Perú | 2014-12-27 | 
+| [Fuzzing y desarrollo de exploits](https://www.youtube.com/watch?v=5C6uec9GMSc) | SnifferNandez | 2014-12-03 | 
 | [Lorenzo Martínez - Welcome to your secure /home, $user [RootedCON 2012]](https://www.youtube.com/watch?v=KFj1bxiLx9Y) | Securízame | 2014-09-21 | 
 | [Borja Berástegui - Handware hacking: Si hay un \input, hay peligro [Rooted CON 2014]](https://www.youtube.com/watch?v=dz_jjhUfznY) | Rooted CON | 2014-09-13 | 
 | [Sesión 29: Seguridad en Aplicaciones Web [Eugenia Bahit]](https://www.youtube.com/watch?v=iRrxFUp6Ryw) | G2D | 2014-07-19 | 
