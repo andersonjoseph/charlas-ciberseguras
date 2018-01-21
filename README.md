@@ -8,7 +8,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 
 | Título | Uploader | Fecha |
 |---|---|---|
-| [?? APIs Underprotected / Obteniendo Pasajes gratis ??](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
+| [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
 | [CyberCamp 2017 - Charlas - Domingo mañana - (Español)](https://www.youtube.com/watch?v=dPxdC7lOrTc) | INCIBE | 2017-12-03 | 
