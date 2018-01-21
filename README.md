@@ -8,6 +8,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [?? APIs Underprotected / Obteniendo Pasajes gratis ??](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
 | [CyberCamp 2017 - Charlas - Domingo mañana - (Español)](https://www.youtube.com/watch?v=dPxdC7lOrTc) | INCIBE | 2017-12-03 | 
@@ -19,6 +20,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [ElevenPaths Talks 3: A la Pesca de las Victimas](https://www.youtube.com/watch?v=HW2vIa6DsUM) | Maligno Alonso | 2017-08-13 | 
 | [ElevenPaths Talks 3: Criptografi´a, Criptomoneda y Otras Hierbas](https://www.youtube.com/watch?v=XroAODEepLc) | Maligno Alonso | 2017-05-28 | 
 | [Curso/charla de Adastra sobre hacking práctico usando THW Labs](https://www.youtube.com/watch?v=x0p0FaVvyoI) | hackplayers | 2017-05-18 | 
+| [Hackeando APIs REST](https://www.youtube.com/watch?v=51MuGvJTuQc) | DragonJAR tv | 2017-04-11 | 
 | [CONPilar17 - Román Ramírez - ¿Dónde están los hackers de las canciones?](https://www.youtube.com/watch?v=tGd27EdX7wU) | CONPilar | 2017-03-23 | 
 | [#11PathsTalks: La Guerra contra el Ransomware](https://www.youtube.com/watch?v=FSLzZbkVaq0) | ElevenPaths | 2017-02-27 | 
 | [PaaS: Phishing as a service, phishing avanzado #HackandBeers](https://www.youtube.com/watch?v=lEkq7d-whhM) | Palabra de hacker | 2017-02-19 | 
@@ -34,6 +36,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Conferencia: I+D, investigación y desahogo (Rubén Santamarta) CyberCamp 2016](https://www.youtube.com/watch?v=E-_8CKnXSQI) | INCIBE | 2016-12-04 | 
 | [Conferencia: La seguridad en dispositivos de seguridad (José Luis Verdeguer) CyberCamp 2016](https://www.youtube.com/watch?v=AE_iNZbH25c) | INCIBE | 2016-12-02 | 
 | [Amenazas en el Internet de las cosas #Hackandbeers](https://www.youtube.com/watch?v=JxXYfRBdZng) | Palabra de hacker | 2016-11-01 | 
+| [Mobile App Pentesting en Primera Persona](https://www.youtube.com/watch?v=vzk-zzimnEw) | DragonJAR tv | 2016-10-21 | 
 | [BIO Hacking](https://www.youtube.com/watch?v=RWqPR2jPvsA) | Maligno Alonso | 2016-10-15 | 
 | [Desempaquetando malware y no morir en el intento. ](https://www.youtube.com/watch?v=iWz_qCJ05N4) | DragonJAR tv | 2016-09-27 | 
 | [Are you kidding me? Bypassing Android Security Solutions with a few clicks](https://www.youtube.com/watch?v=RYubYzFSMhs) | DragonJAR tv | 2016-09-23 | 
@@ -41,6 +44,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Ingeniería social: el arte de atacar al eslabón más débil](https://www.youtube.com/watch?v=cmZHKGZnsdM) | Palabra de hacker | 2016-06-28 | 
 | [Charla: Matamos a gente basándonos en los metadatos](https://www.youtube.com/watch?v=LD_-x51Dltw) | OpenWebinars | 2016-06-28 | 
 | [¿Qué es la seguridad ofensiva? Hacking ético en Palabra de hacker](https://www.youtube.com/watch?v=9DzCtEU8qeo) | Palabra de hacker | 2016-05-24 | 
+| [Webinar SG Campus: Administración de Riesgos de seguridad en Tecnologías Web [Ethical Hacking]](https://www.youtube.com/watch?v=mO__O8bwrao) | Software Guru | 2016-05-06 | 
 | [CHARLA INGENIERIA INVERSA EDUARDO CRUZ ARCADE CON 2016](https://www.youtube.com/watch?v=ef4kpydvHbg) | ARCADE VINTAGE | 2016-05-04 | 
 | [How I met your e-Wallet (BitCoins)](https://www.youtube.com/watch?v=qdX3JXrUxPs) | Maligno Alonso | 2016-05-03 | 
 | [GDC Conferencia - Seguridad informatica y hacking en Android](https://www.youtube.com/watch?v=Gvsk4DWBi0E) | Lazaro Dev | 2016-04-29 | 
