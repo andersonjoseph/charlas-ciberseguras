@@ -4,15 +4,15 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
- **Ultima charla agregada: [/www.youtube.com/watch?v=kARgbYGrvQY](https://www.youtube.com/watch?v=kARgbYGrvQY)**
+ **Ultima charla agregada: [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY)** 
 
 
 ---
 
 | Título | Uploader | Fecha |
 |---|---|---|
-| [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc) | CCN | 2018-01-04 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
+| [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY) | Compilando Podcast | 2017-12-22 | 
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
 | [CyberCamp 2017 - Charlas - Domingo mañana - (Español)](https://www.youtube.com/watch?v=dPxdC7lOrTc) | INCIBE | 2017-12-03 | 
