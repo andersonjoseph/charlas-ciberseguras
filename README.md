@@ -11,7 +11,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 
 | Título | Uploader | Fecha |
 |---|---|---|
-| [Enrique Domínguez - Ciberseguridad - football leaks: Ataque-defensa | WOLTERS KLUWER](https://www.youtube.com/watch?v=YM0p2X_GQxU) | InnoTec System | 2018-01-16 | 
+| [Enrique Domínguez - Ciberseguridad - football leaks: Ataque-defensa WOLTERS KLUWER](https://www.youtube.com/watch?v=YM0p2X_GQxU) | InnoTec System | 2018-01-16 | 
 | [Cuarta Charla del Seminario LCSS Hacking fundamentals: el código fuente](https://www.youtube.com/watch?v=U9ppru41z-U) | Paul Sheets | 2018-01-01 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
 | [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY) | Compilando Podcast | 2017-12-22 | 
