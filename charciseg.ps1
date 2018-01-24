@@ -60,6 +60,8 @@ $i=0
         $i++
     }
 
+$list[5] = "**Ultima charla agregada: ["+$title+"]("+$youtube_url+")**`n"
+
 $list[$i-1] += "`n" + "| [" + $title + "](" + $youtube_url + ") | " + $author + " | " + $date + " | "
 $list | set-content README.md -Encoding String
 add-content urls.txt $youtube_url -Encoding String
