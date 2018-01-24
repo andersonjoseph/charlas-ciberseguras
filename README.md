@@ -86,4 +86,3 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Conferencia hacking colaborativo armitage OMHE.org por hlixaya &amp; TEAM](https://www.youtube.com/watch?v=3hDMVA0se3U) | Héctor López | 2013-11-10 | 
 | [CPCO6 - Tips y Experiencias de un consultor de seguridad informatica](https://www.youtube.com/watch?v=WFwsho6Ae5Y) | Campus Party | 2013-10-11 | 
 | [CPCO4 - El arte de la ingeniería inversa](https://www.youtube.com/watch?v=d4Q-EcnX99U) | Campus Party | 2011-07-01 | 
-| [/www.youtube.com/watch?v=kARgbYGrvQY](https://www.youtube.com/watch?v=kARgbYGrvQY) | ww.youtube.com/watch?v=kARgbYGrvQY | https://www.youtube.com/watch?v=kARgbYGrvQY | 
