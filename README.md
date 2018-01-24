@@ -4,9 +4,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
- **Ultima charla agregada: [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY)**
-
- **Ultima charla agregada: [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc)**
+ **Ultima charla agregada: [/www.youtube.com/watch?v=kARgbYGrvQY](https://www.youtube.com/watch?v=kARgbYGrvQY)**
 
 
 ---
@@ -15,7 +13,6 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 |---|---|---|
 | [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc) | CCN | 2018-01-04 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
-| [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY) | Compilando Podcast | 2017-12-22 | 
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
 | [#11PathsTalks: Open Data… mucho para ver](https://www.youtube.com/watch?v=3QnrnHoGJKU) | ElevenPaths | 2017-12-07 | 
 | [CyberCamp 2017 - Charlas - Domingo mañana - (Español)](https://www.youtube.com/watch?v=dPxdC7lOrTc) | INCIBE | 2017-12-03 | 
@@ -88,3 +85,4 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | [Conferencia hacking colaborativo armitage OMHE.org por hlixaya &amp; TEAM](https://www.youtube.com/watch?v=3hDMVA0se3U) | Héctor López | 2013-11-10 | 
 | [CPCO6 - Tips y Experiencias de un consultor de seguridad informatica](https://www.youtube.com/watch?v=WFwsho6Ae5Y) | Campus Party | 2013-10-11 | 
 | [CPCO4 - El arte de la ingeniería inversa](https://www.youtube.com/watch?v=d4Q-EcnX99U) | Campus Party | 2011-07-01 | 
+| [/www.youtube.com/watch?v=kARgbYGrvQY](https://www.youtube.com/watch?v=kARgbYGrvQY) | ww.youtube.com/watch?v=kARgbYGrvQY | https://www.youtube.com/watch?v=kARgbYGrvQY | 
