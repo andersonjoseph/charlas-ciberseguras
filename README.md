@@ -3,12 +3,15 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
-**Ultima charla agregada: [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc)**
+
+ **Ultima charla agregada: [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc)**
+
 
 ---
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc) | CCN | 2018-01-04 | 
 | [Hardware hacking: Obteniendo privilegios de administración (Fran Quinto, RAQUINBER)](https://www.youtube.com/watch?v=OR7Gg5CdEtc) | CCN | 2018-01-04 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
