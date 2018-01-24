@@ -4,13 +4,14 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
- **Ultima charla agregada: [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY)** 
+ **Ultima charla agregada: [Cuarta Charla del Seminario LCSS Hacking fundamentals: el código fuente](https://www.youtube.com/watch?v=U9ppru41z-U)** 
 
 
 ---
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [Cuarta Charla del Seminario LCSS Hacking fundamentals: el código fuente](https://www.youtube.com/watch?v=U9ppru41z-U) | Paul Sheets | 2018-01-01 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
 | [Podcast 19 – Ciberseguridad con Yaiza Rubio y Ubucon 2018 en Gijón (hecho con Spreaker)](https://www.youtube.com/watch?v=kARgbYGrvQY) | Compilando Podcast | 2017-12-22 | 
 | [Manual del Paranoico](https://www.youtube.com/watch?v=_Oau2gsxDhY) | DragonJAR tv | 2017-12-20 | 
