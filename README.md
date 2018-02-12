@@ -4,13 +4,14 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
- **Ultima charla agregada: [LUCA Talk 9: ProFuturo, mejora del aprendizaje con la anali´tica de datos](https://www.youtube.com/watch?v=i-UCnP6hA8I)** 
+ **Ultima charla agregada: [Conoce acerca de los Backdoors Webs || WebShells || 2018](https://www.youtube.com/watch?v=mnX3fopKUu8)** 
 
 
 ---
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [Conoce acerca de los Backdoors Webs WebShells 2018](https://www.youtube.com/watch?v=mnX3fopKUu8) | VIINVÍDEOS HD | 2018-02-11 | 
 | [Enrique Domínguez - Ciberseguridad - football leaks: Ataque-defensa WOLTERS KLUWER](https://www.youtube.com/watch?v=YM0p2X_GQxU) | InnoTec System | 2018-01-16 | 
 | [Cuarta Charla del Seminario LCSS Hacking fundamentals: el código fuente](https://www.youtube.com/watch?v=U9ppru41z-U) | Paul Sheets | 2018-01-01 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
