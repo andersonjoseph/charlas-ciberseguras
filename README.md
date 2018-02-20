@@ -4,7 +4,7 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
- **Ultima charla agregada: [Conoce acerca de los Backdoors Webs || WebShells || 2018](https://www.youtube.com/watch?v=mnX3fopKUu8)** 
+ **Ultima charla agregada: [Día de Internet Segura 2018 - Charla inspiracional](https://www.youtube.com/watch?v=BkCSFxZwLmg)** 
 
 
 ---
@@ -12,6 +12,8 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 | Título | Uploader | Fecha |
 |---|---|---|
 | [Conoce acerca de los Backdoors Webs WebShells 2018](https://www.youtube.com/watch?v=mnX3fopKUu8) | VIINVÍDEOS HD | 2018-02-11 | 
+| [Día de Internet Segura 2018 - Taller interactivo](https://www.youtube.com/watch?v=dKT2g9wO-Wk) | INCIBE | 2018-02-07 | 
+| [Día de Internet Segura 2018 - Charla inspiracional](https://www.youtube.com/watch?v=BkCSFxZwLmg) | INCIBE | 2018-02-07 | 
 | [Enrique Domínguez - Ciberseguridad - football leaks: Ataque-defensa WOLTERS KLUWER](https://www.youtube.com/watch?v=YM0p2X_GQxU) | InnoTec System | 2018-01-16 | 
 | [Cuarta Charla del Seminario LCSS Hacking fundamentals: el código fuente](https://www.youtube.com/watch?v=U9ppru41z-U) | Paul Sheets | 2018-01-01 | 
 | [ APIs Underprotected / Obteniendo Pasajes gratis ](https://www.youtube.com/watch?v=Yhd9HCS-o3I) | Fahed Hermoza | 2017-12-28 | 
