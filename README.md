@@ -4,13 +4,16 @@ recopilación de las mejores charlas/conferencias de seguridad informática
 [¡CONTRIBUYE CON LA LISTA!](https://github.com/Andergedon/charlas-ciberseguras/blob/master/CONTRIBUYE.md) | 
 [Descargalas todas](https://gist.github.com/Andergedon/c71d92c66b78c9addac0392317c5196e)
 
- **Ultima charla agregada: [#11PathsTalks- Special Edition: Criptografía y ordenadores cuánticos](https://www.youtube.com/watch?v=a16iARbDAGM)** 
+ **Ultima charla agregada: [RF Hackers killed the Video Star  - Samuel García, Daniel Criado](https://www.youtube.com/watch?v=IPqmcX0TyL4)** 
 
 
 ---
 
 | Título | Uploader | Fecha |
 |---|---|---|
+| [Hacking de Videojuegos con JavaScript](https://www.youtube.com/watch?v=XJJS1HrV2_Y) | Liferay Ágora | 2018-03-12 | 
+| [RF Hackers killed the Video Star  - Samuel García, Daniel Criado](https://www.youtube.com/watch?v=IPqmcX0TyL4) | ACM  | 2018-03-06 | 
+| [Seguridad en el Internet de las cosas: riesgos y posibles soluciones](https://www.youtube.com/watch?v=UcM0YjJJG7U) | Palabra de hacker | 2018-03-04 | 
 | [#11PathsTalks- Special Edition: Criptografía y ordenadores cuánticos](https://www.youtube.com/watch?v=a16iARbDAGM) | ElevenPaths | 2018-03-01 | 
 | [Conoce acerca de los Backdoors Webs WebShells 2018](https://www.youtube.com/watch?v=mnX3fopKUu8) | VIINVÍDEOS HD | 2018-02-11 | 
 | [Día de Internet Segura 2018 - Taller interactivo](https://www.youtube.com/watch?v=dKT2g9wO-Wk) | INCIBE | 2018-02-07 | 
